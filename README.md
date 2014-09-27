@@ -1,4 +1,6 @@
 django-blog
 ===========
 
-Django Blog
+Blog Site using Django 1.7
+
+
